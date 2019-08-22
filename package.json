@@ -1,0 +1,25 @@
+{
+  "name": "appcontent-framework",
+  "version": "0.1.0",
+  "description": "AppContent Framework é a base de códigos utilizada por AppContent para gestão de conteúdos.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/appcontent/framework.git"
+  },
+  "keywords": [
+    "appcontent",
+    "framework",
+    "content",
+    "management"
+  ],
+  "author": "Gilberto Albino",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/appcontent/framework/issues"
+  },
+  "homepage": "https://appcontent.github.io/framework"
+}
